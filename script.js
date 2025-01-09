@@ -21,3 +21,5 @@ color1.addEventListener("input", setgradient)
 color2.addEventListener("input", setgradient)
 
 //We were able to also use the onInput method in the input elements in the html file to call the functions. Please note this is less extendable 
+
+// testing commit to deploy to gh pages
