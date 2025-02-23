@@ -1,5 +1,3 @@
-Here’s the corrected version of the markdown content in a single .md file:
-
 # CSS Background Generator
 
 ## Description
@@ -27,21 +25,26 @@ To download and run this application locally, follow these steps:
 
    ```sh
    git clone https://github.com/your-username/cssBackgroundGenerator.git
+   ```
 
-2.	Navigate to the project directory:
+2. **Navigate to the project directory:**
 
-cd cssBackgroundGenerator
+   ```sh
+   cd cssBackgroundGenerator
+   ```
 
+3. **Open the index.html file in your web browser:**
 
-3.	Open the index.html file in your web browser:
-You can do this by double-clicking the index.html file or by running the following command in your terminal:
+   You can do this by double-clicking the index.html file or by running the following command in your terminal:
 
-open index.html
+   ```sh
+   open index.html
+   ```
 
-Alternatively, you can use a local server to serve the files. For example, using Python’s built-in HTTP server:
+   Alternatively, you can use a local server to serve the files. For example, using Python’s built-in HTTP server:
 
-python3 -m http.server
+   ```sh
+   python3 -m http.server
+   ```
 
-Then, open your web browser and navigate to http://localhost:8000.
-
-You can copy and save this as a `.md` file (e.g., `README.md`). This should be good to go!
+   Then, open your web browser and navigate to http://localhost:8000.
